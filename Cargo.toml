@@ -2,7 +2,13 @@
 name = "dfinity-logo"
 version = "0.1.0"
 edition = "2021"
-
+authors = ["Daniel Thurau <daniel.n.thurau@gmail.com>"]
+license = "Apache-2.0"
+license-file = "LICENSE.md"
+description = "Small program that prints the dfinity logo as ascii-art"
+homepage = "https://github.com/DanielThurau/dfinity-logo" 
+repository = "https://github.com/DanielThurau/dfinity-logo"
+readme = "README.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
